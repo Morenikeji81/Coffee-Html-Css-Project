@@ -1,0 +1,26 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.menu-bar{
+    margin-right: 20px;
+}
+.coffeee-cup{
+    margin-right: 20px;
+}
+.order-now{
+    background-color: rgb(34, 1, 1);
+    color: white;
+    margin: 5px;
+    padding: 5px 10px 5px 10px;
+    font-size: 10px;
+}
+
+
+@media (max-width: 768px)  {
+
+.order-now{
+    font-size: 15px;
+    margin: 5px;
+}
+}
